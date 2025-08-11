@@ -9,13 +9,14 @@
 
 ## 2. 使用技術
 
-| 領域           | 技術       | ライブラリ / フレームワーク |
-| :------------- | :--------- | :-------------------------- |
-| フロントエンド | TypeScript | React, SmartHR UI, vite     |
-| バックエンド   | Ruby       | Ruby on Rails (API モード)  |
-| データベース   | SQL        | PostgreSQL                  |
-| 状態管理       | (任意)     | Zustand                     |
-| ルーティング   | (任意)     | React Router                |
+| 領域              | 技術       | ライブラリ / フレームワーク |
+| :---------------- | :--------- | :-------------------------- |
+| フロントエンド    | TypeScript | React, SmartHR UI, Vite     |
+| バックエンド      | Ruby       | Ruby on Rails (API モード)  |
+| データベース      | SQL        | PostgreSQL                  |
+| 状態管理          | (任意)     | Zustand                     |
+| ルーティング      | (任意)     | React Router                |
+| HTTP クライアント | (任意)     | Axios                       |
 
 ---
 
